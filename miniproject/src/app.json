@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/imagetransfer/main"
+  ],
+  "window": {
+
+  }
+}
